@@ -1,24 +1,17 @@
 {
-  "name": "musicians-bands",
+  "name": "musicians_bands_updated_starter",
   "version": "1.0.0",
-  "description": "A Sequelize DB for bands to organize their songs and musicians",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watch"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MultiverseLearningProducts/musicians-bands.git"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jonathan Jacka (https://jonathanjacka.com/)",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MultiverseLearningProducts/musicians-bands/issues"
-  },
   "dependencies": {
-    "jest": "27.5.1",
-    "sequelize": "6.17.0",
-    "sqlite3": "5.0.2"
+    "jest": "^28.1.2",
+    "sequelize": "^6.21.2",
+    "sqlite3": "^5.0.8"
   }
 }
